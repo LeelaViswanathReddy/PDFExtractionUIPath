@@ -1,0 +1,2 @@
+Save some credit card statements in this folder. it is better to use kotak bank statements, and in init state enter the password for
+read pdf file if applicable.
